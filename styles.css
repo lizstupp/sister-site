@@ -1,0 +1,32 @@
+h1{
+  color:green;
+  text-align: center;
+  font-family: 'Yeseva One', cursive;
+}
+p{
+  background-position: center;
+  text-align:center;
+}
+.pictures{
+  width: 400px;
+}
+p,h2,h3{
+  font-family: 'Open Sans', sans-serif;
+}
+.pictures{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+  background-color:#84B082;
+}
+div {
+  margin-left: 150px;
+}
+div2 {
+  margin-left:150px;
+}
+.sneha {
+  
+}
